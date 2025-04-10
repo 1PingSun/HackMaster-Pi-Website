@@ -4,8 +4,10 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://hackmasterpi.org/',
 	integrations: [
 		starlight({
+			favicon: '/favicon.ico',
 			title: 'HackMaster Pi',
 			logo: {
 				dark: './src/assets/PNG-Dark.webp',
@@ -26,7 +28,4 @@ export default defineConfig({
 			],
 		}),
 	],
-
-	site: 'https://hackmasterpi.org/',
-	favicon: '/favicon.ico'
 });
