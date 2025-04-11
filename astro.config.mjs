@@ -18,8 +18,8 @@ export default defineConfig({
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/1PingSun/HackMaster-Pi' }],
 			sidebar: [
 				{
-					label: 'Initial Setup',
-					autogenerate: { directory: 'initial-setup' },
+					label: 'Initial Settings',
+					autogenerate: { directory: 'initial-settings' },
 				},
 				{
 					label: 'Usage',
