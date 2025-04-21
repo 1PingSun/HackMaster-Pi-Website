@@ -19,7 +19,11 @@ export default defineConfig({
 			sidebar: [
 				{
 					label: 'Initial Settings',
-					autogenerate: { directory: 'initial-settings' },
+					items: [
+						{ label: 'Install OS', link: '/initial-settings/install-os' },
+						{ label: 'Assemble', link: '/initial-settings/assemble' },
+						{ label: 'Setting up the Enviroment', link: '/initial-settings/setting-up-the-enviroment' },
+					],
 				},
 				{
 					label: 'Usage',
