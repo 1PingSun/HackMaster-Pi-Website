@@ -3,6 +3,8 @@ title: Install OS
 description: This guide will show you how to install Raspberry Pi OS Lite on Raspberry Pi Zero 2 W for the HackMaster Pi.
 ---
 
+This guide will show you how to install Raspberry Pi OS Lite on Raspberry Pi Zero 2 W for the HackMaster Pi.
+
 1. Download [Raspberry Pi Imager](https://www.raspberrypi.com/software/) on your personal computer.
 2. Open Raspberry Pi Imager application on your personal computer.
 3. Select options based on the following information.
