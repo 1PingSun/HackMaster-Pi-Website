@@ -26,8 +26,11 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Usage',
-					autogenerate: { directory: 'usage' },
+					label: 'Usage: Bluetooth',
+					items: [
+						{ label: 'Beacon Emulator', link: '/usage-ble/beacon' },
+						{ label: 'AirPods Emulator', link: '/usage-ble/airpods' },
+					],
 				},
 			],
 		}),
