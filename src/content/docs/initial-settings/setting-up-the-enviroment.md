@@ -5,14 +5,17 @@ description: This guide will show you how to set up the Raspberry Pi Zero 2 W en
 
 This guide will show you how to set up the Raspberry Pi Zero 2 W environment for the HackMaster Pi.
 
-## For All
-
-## Bluetooth
-
-## Wi-Fi
-
-## Infrared (IR)
-
-## NFC
-
-## USB
+1. Install git:
+    ```bash
+    sudo apt install git
+    ```
+2. Clone the repositorie:
+    ```bash
+    git clone https://github.com/1PingSun/HackMaster-Pi.git
+    ```
+3. Run setup script:
+    ```bash
+    cd HackMaster-Pi
+    chdmod +x setup.sh
+    sudo ./setup.sh
+    ```

@@ -16,7 +16,6 @@ This guide will show you how to install Raspberry Pi OS Lite on Raspberry Pi Zer
 6. Go to the root of SD card.
 7. Establish an empty file `ssh` in the root path of your SD card.
 8. Establish config file `wpa_supplicant.conf` for Wi-Fi setting in the root path of your SD card (Remember to replace the currect SSID and AP-PSK following).
-
     ```
     country=TW
     ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
