@@ -26,6 +26,7 @@ This guide will show you how to install Raspberry Pi OS Lite on Raspberry Pi Zer
         psk="AP-PSK"
         proto=RSN
         key_mgmt=WPA-PSK
+        priority=1
     }
     ```
 9.  Plug in the SD card to the Raspberry Pi.

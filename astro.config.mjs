@@ -32,6 +32,13 @@ export default defineConfig({
 						{ label: 'AirPods Emulator', link: '/usage-ble/airpods' },
 					],
 				},
+				{
+					label: 'Usage: Wi-Fi',
+					items: [
+						{ label: 'Password Wordlist Generator', link: '/usage-wifi/password-wordlist-generator' },
+						{ label: 'Wi-Fi Password Cracker', link: '/usage-wifi/wifi-cracker' },
+					]
+				},
 			],
 		}),
 	],
