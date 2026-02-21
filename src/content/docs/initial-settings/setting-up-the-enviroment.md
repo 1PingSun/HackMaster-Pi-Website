@@ -16,6 +16,7 @@ This guide will show you how to set up the Raspberry Pi Zero 2 W environment for
 3. Run the setup script:
     ```bash
     cd HackMaster-Pi
+    sudo su
     chmod +x setup.sh
     sudo ./setup.sh
     ```
