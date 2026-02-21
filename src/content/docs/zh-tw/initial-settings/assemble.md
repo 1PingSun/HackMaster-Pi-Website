@@ -20,7 +20,7 @@ description: 本指南將教您如何組裝 Raspberry Pi Zero 2 W 並連接各�
 
 ## 3D 外殼
 
-1. 下載 3D 模組檔案：[https://github.com/1PingSun/HackMaster-Pi/tree/main/3D-Modules](https://github.com/1PingSun/HackMaster-Pi/tree/main/3D-Modules)
+1. 下載 3D 模組檔案：[https://github.com/1PingSun/HackMaster-Pi/tree/main/3d-models](https://github.com/1PingSun/HackMaster-Pi/tree/main/3d-models)
 2. 使用 3D 列印機列印 3D 模組。
 3. 將各個元件和 Raspberry Pi Zero 2 W 組裝進 3D 外殼模組中。
 

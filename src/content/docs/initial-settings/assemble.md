@@ -7,7 +7,7 @@ This guide will show you how to assemble your Raspberry Pi Zero 2 W for the Hack
 
 ## 3D Case
 
-1. Download 3D modules: [https://github.com/1PingSun/HackMaster-Pi/tree/main/3D-Modules](https://github.com/1PingSun/HackMaster-Pi/tree/main/3D-Modules).
+1. Download 3D modules: [https://github.com/1PingSun/HackMaster-Pi/tree/main/3d-models](https://github.com/1PingSun/HackMaster-Pi/tree/main/3d-models).
 2. Print the 3D modules with 3D printer.
 3. Assemble the components and the Raspberry Pi Zero 2 W into the 3D case modules.
 
